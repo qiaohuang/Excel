@@ -1,6 +1,6 @@
 # Excel Skills for Data Analytics and Visualization Specialization
 
-[![logo](/logo.jpg)](https://www.coursera.org/specializations/excel-data-analytics-visualization)
+[![logo](/Excel%20Skills%20for%20Data%20Analytics%20and%20Visualization%20Specialization/logo.jpg)](https://www.coursera.org/specializations/excel-data-analytics-visualization)
 
 *Specialization on Coursera offered by Macquarie University with 4.9 rating ⭐⭐⭐⭐⭐*
 
